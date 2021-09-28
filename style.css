@@ -1,0 +1,23 @@
+*{
+
+}
+img{
+	width: 100%;
+}
+
+
+.team {
+	background:url(#d1ccc0) ;
+	text-align: center;
+}
+.team-member{
+	width: 24%;
+	height: auto;
+
+}
+.team-p{
+	display: flex;
+	flex-flow: wrap;
+	justify-content: space-between;
+}
+
